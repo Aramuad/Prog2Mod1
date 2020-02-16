@@ -1,6 +1,6 @@
 //Sam Ballard
 
-package Assignment_1a_b;
+package assignment_1a_b;
 public class Tests {
 	
 	private String fName, lName;

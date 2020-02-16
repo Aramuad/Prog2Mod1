@@ -1,6 +1,6 @@
 //Sam Ballard
 
-package Assignment_1a_b;
+package assignment_1a_b;
 import java.util.Scanner;
 public class TestsTest {
 	public static void main(String[] args) {

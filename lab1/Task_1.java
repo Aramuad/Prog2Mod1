@@ -1,6 +1,6 @@
 //Sam Ballard
 
-package Lab_1a;
+package lab1;
 import java.util.Scanner;
 public class Task_1 {
 

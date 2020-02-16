@@ -1,4 +1,4 @@
-package Lab_1b;
+package lab2;
 import java.util.Scanner;
 public class Person {
 	

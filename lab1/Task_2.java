@@ -1,6 +1,6 @@
 //Sam Ballard
 
-package Lab_1a;
+package lab1;
 public class Task_2 {
 
 	Task_2() {		
